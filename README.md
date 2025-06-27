@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML specially AI Agents 
 - 🌱 I’m currently at 3rd B.Tech Computer Science
 - 💞️ I’m looking to collaborate on AI/ML projects, research, and innovative solutions.
-- 📫 How to reach me : LinkedIn:  linkedin.com/in/bhagyeshpatil2004 
+- 📫 How to reach me : LinkedIn: [ linkedin.com/in/bhagyeshpatil2004 ](https://www.linkedin.com/in/bhagyeshpatil2004/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring new technologies and video gaming!
 
