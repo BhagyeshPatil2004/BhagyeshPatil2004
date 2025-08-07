@@ -1,11 +1,10 @@
 # 💫 Hi 👋, I'm Bhagyesh Patil
 
-- 👀 I’m currently learning AI/ML specially AI Agents 
-- 🌱 I’m currently at 4rd B.Tech Computer Science
-- 💞️ I’m looking to collaborate on AI/ML projects, research, and innovative solutions.
-- 📫 How to reach me : LinkedIn: [ linkedin.com/in/bhagyeshpatil2004 ](https://www.linkedin.com/in/bhagyeshpatil2004/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love exploring new technologies and video gaming!
+- 🌱 **I’m currently learning:** AI Agents, Agentic AI, etc
+- 👯 **I’m looking to collaborate on:** AI Agents projects, research, and innovative solutions, and more.
+- 📫 **How to reach me:** LinkedIn: [ linkedin.com/in/bhagyeshpatil2004 ](https://www.linkedin.com/in/bhagyeshpatil2004/)
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** I love exploring new technologies and video gaming!
 
 <!-- Snake Game Repo View -->
 
