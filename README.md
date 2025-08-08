@@ -6,12 +6,6 @@
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I love exploring new technologies and video gaming!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=rainbow">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=rainbow" alt="neon pixel github stats" />
-</picture>
-
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
