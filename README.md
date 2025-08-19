@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I'm Bhagyesh Patil  </h1>
 
-- 🌱 **I’m currently learning:** AI Agents, Agentic AI, etc.
+- 🌱 **I’m currently learning:** AI Agents, Agentic AI, etc. 
 - 👯 **I’m looking to collaborate on:** AI Agents projects, research, and innovative solutions, and more.
 - 📫 **How to reach me:** LinkedIn: [ linkedin.com/in/bhagyeshpatil2004 ](https://www.linkedin.com/in/bhagyeshpatil2004/)
 - 😄 **Pronouns:** he/him
